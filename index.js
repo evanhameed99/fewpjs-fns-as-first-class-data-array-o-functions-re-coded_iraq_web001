@@ -41,7 +41,7 @@ return message;
 
 }
 
-let routine = [wakeDog(),leashDog(),walkToPark(),throwFrisbee(),walkHome(),unleashDog()] ;
+let routine = [wakeDog,leashDog,walkToPark,throwFrisbee,walkHome,unleashDog] ;
 
 function exerciseDog(dogName, dogBreed){
 let resultArray=[];
