@@ -14,8 +14,8 @@ return message;
 }
 function walkToPark(dogName,dogBreed){
 
-console.log(`Walk to park with ${dogName} the ${dogBreed}`);
-let message = `Walk to park with ${dogName} the ${dogBreed}`;
+console.log(`Walk to the park with ${dogName} the ${dogBreed}`);
+let message = `Walk to the park with ${dogName} the ${dogBreed}`;
 return message;
 
 }
